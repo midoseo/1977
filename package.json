@@ -1,0 +1,10 @@
+{
+  "name": "s1-50th-archive-mission",
+  "version": "1.0.0",
+  "description": "에스원 창립 50주년 기록보관소 잠금해제 미션 (Netlify 배포용)",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@netlify/blobs": "^8.1.0"
+  }
+}
